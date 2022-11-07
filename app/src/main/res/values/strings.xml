@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">userUI</string>
+    <string name="hello">Hello</string>
+    <string name="joey">Joey</string>
+    <string name="Goals" />
+    <string name="goals">Goals</string>
+    <string name="Team" />
+    <string name="team">Team</string>
+    <string name="think">think</string>
+    <string name="create">create</string>
+    <string name="trending">trending</string>
+    <string name="dummy_text">dummy_text</string>
+    <string name="home">Home</string>
+    <string name="account">account</string>
+    <string name="setting">setting</string>
+    <string name="profile">profile</string>
+    <string name="Profile" />
+    <string name="User_Profile">Profile</string>
+    <string name="joeyn">Joey</string>
+    <string name="eur">eur</string>
+    <string name="total">total</string>
+</resources>
